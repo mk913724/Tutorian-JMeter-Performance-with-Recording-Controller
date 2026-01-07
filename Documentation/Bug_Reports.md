@@ -4,6 +4,7 @@
 
 **Bug ID:** PERF-001
 **Title:** Home Page shows high response time under normal load
+
 **Category:** Performance
 
 **Severity:** High
@@ -49,7 +50,8 @@ During performance testing, the Home Page exhibited high response time even unde
 
 **Bug ID:** FUNC-002
 **Title:** Terms & Conditions page shows warning status during performance test
-**Category:** Functional / Performance
+
+**Category:** Functional  & Performance
 
 **Severity:** Medium
 **Priority:** Medium
@@ -91,6 +93,7 @@ During performance testing, the Terms & Conditions page returned a Warning statu
 
 **Bug ID:** PERF-003
 **Title:** Refund Policy page has very high response time and warning status
+
 **Category:** Performance
 
 **Severity:** High
