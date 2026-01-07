@@ -77,10 +77,10 @@ Tutorian-JMeter-Performance-with-Recording-Controller/
 
 ## **Documentation**
 
-* **Test Plan:** Defines scope, objectives, approach, and environment
-* **Test Cases:** Detailed performance test cases with expected and actual results
-* **Bug Reports:** Logged performance issues with severity and priority
-* **Summary Report:** Overall test execution and defect summary
+* [Test Plan](https://github.com/mk913724/Tutorian-JMeter-Performance-with-Recording-Controller/blob/main/Documentation/Test_Plan.md)
+* [Test Cases](https://github.com/mk913724/Tutorian-JMeter-Performance-with-Recording-Controller/blob/main/Documentation/Test_Case.md)
+* [Bug Reports](https://github.com/mk913724/Tutorian-JMeter-Performance-with-Recording-Controller/blob/main/Documentation/Bug_Reports.md
+
 
 ---
 
